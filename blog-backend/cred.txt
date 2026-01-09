@@ -1,0 +1,16 @@
+{"user":{"id":"69616c3fed952c38799a3ef8","username":"sajal","email":"sajal@test.com"},"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTYxNmMzZmVkOTUyYzM4Nzk5YTNlZjgiLCJpYXQiOjE3Njc5OTIzODMsImV4cCI6MTc2ODU5NzE4M30.9bIZd_L7hU_u-meEcbU8rRZE2XRoYrHcRjP3W2YYrNg"}
+
+login
+{"user":{"id":"69616c3fed952c38799a3ef8","username":"sajal","email":"sajal@test.com"},"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTYxNmMzZmVkOTUyYzM4Nzk5YTNlZjgiLCJpYXQiOjE3Njc5OTMwODQsImV4cCI6MTc2ODU5Nzg4NH0.tFI6PH82iDcRbX1S4Iij8zK7vHrDUnXnlSSeZiaqTzE"}
+
+post create
+{
+    "id": "696173bfd26ad22e47b12390",
+    "title": "My blog",
+    "content": "variety",
+    "author": {
+        "id": "69616c3fed952c38799a3ef8",
+        "username": "sajal"
+    },
+    "createdAt": "2026-01-09T21:31:43.074Z"
+}
